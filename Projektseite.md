@@ -34,8 +34,9 @@ Bewegen muss man den Spieler, um den Ball vom eigenen Tor wegzuhalten und in das
 
 Der Ball ist der Weg, wie man in diesem Spiel Tore machen kann, lenken kann man diesen nur indirekt mithilfe des Spielers. Abprallen tut der Ball nur von den Wänden und dem Spieler, dies nach dem Prinzip Einfallswinkel = Ausfallswinkel, weshalb hierfür verhältnismäßig viel Code verwendet werden musste.
 
-![image](https://user-images.githubusercontent.com/111355009/230423856-8d0fd2a1-a67b-4318-aaba-ded53f30589a.png)
-![image](https://user-images.githubusercontent.com/111355009/230424074-e3c1946f-08d2-4955-8bc2-91915ec57c76.png)
+![Ball Code1](https://user-images.githubusercontent.com/111355009/230424481-66417066-ba51-4e14-92fb-734132f6d430.png)
+
+![Ball Code2](https://user-images.githubusercontent.com/111355009/230424781-37f686fe-0fa0-4931-aebe-c481287d048c.png)
 
 ### Die oberen Wände: <a name="Die oberen Wände"></a>
 Die oberen Wände haben das Ziel, den Ball wie bei den Seitenwänden abzulenken, nötig waren diese, damit das Tor oben abgedeckt ist, damit an den Seiten des Tores keine Tore erzielt werden können. Eigenen Code haben diese Wände aber nicht.

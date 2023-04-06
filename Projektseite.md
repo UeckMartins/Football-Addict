@@ -3,6 +3,9 @@
 ## Inhaltsverzeichnis:
 
 * [Einleitung](Einleitung)
+* [Programm](Programm)
+* [Aufbau](Aufbau)
+  *[Der Spieler](Der Spieler)
 
 ## Einleitung:
 Dies ist die Projektseite zum Fußballspiel „Football Addict“, programmiert von Philip Martins und Robert Ueck.

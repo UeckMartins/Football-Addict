@@ -24,7 +24,7 @@ Verwendet wurde das Programm Greenfoot, einer mithilfe von Java geschriebenen En
 ![R](https://user-images.githubusercontent.com/111355009/230406629-f8635308-9b0a-4eb4-9f00-1231978922f7.png)
 
 ## Aufbau:
-### Der Spieler: <a name="Der Spieler"></a>
+### Der Spieler: <a name="Der Spieler"></a> ![signal-2023-02-08-085605_002r](https://user-images.githubusercontent.com/111355009/230417063-019a1ea5-0efc-4405-a7a2-5c87c8b5ee03.png)
 Der Spieler (auch Player genannt) ist der einzige direkt kontrollierbare Teil dieses Spiels, diesen bewegt man mithilfe von den „Links“- und „Rechts“-Tasten. Dementsprechend ist dessen Code ziemlich simpel:
 
 ![Player Code](https://user-images.githubusercontent.com/111355009/230404658-cef5ebc3-7ec9-4266-a628-19a2ca766872.png)

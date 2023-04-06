@@ -1,5 +1,7 @@
 # „Football Addict“ – Das Fußballspiel mit Suchtpotenzial
 
+![Football Addict Logo](https://user-images.githubusercontent.com/111355009/230416728-d17c5746-4363-4d63-9df9-005884021c70.jpg)
+
 ## Inhaltsverzeichnis:
 
 * [Einleitung](Einleitung)

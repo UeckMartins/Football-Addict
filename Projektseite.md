@@ -19,6 +19,8 @@ Was ist „Football Addict“?
 Football Addict ist ein klassisches Computerspiel, wo man einen Spieler von Seite zu Seite steuert, um Tore zu erzielen und Gegentore zu verhindern. Addict heißt es, weil es ein offenes Ende hat und dadurch ein großes Verlangen daran besteht, so viele Tore wie möglich zu machen.
 ## Programm:
 Verwendet wurde das Programm Greenfoot, einer mithilfe von Java geschriebenen Entwicklungsumgebung für das Programmieren.
+![R](https://user-images.githubusercontent.com/111355009/230406629-f8635308-9b0a-4eb4-9f00-1231978922f7.png)
+
 ## Aufbau:
 ### Der Spieler: <a name="Der Spieler"></a>
 Der Spieler (auch Player genannt) ist der einzige direkt kontrollierbare Teil dieses Spiels, diesen bewegt man mithilfe von den „Links“- und „Rechts“-Tasten. Dement!

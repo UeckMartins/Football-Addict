@@ -23,7 +23,7 @@ Verwendet wurde das Programm Greenfoot, einer mithilfe von Java geschriebenen En
 ### Der Spieler: <a name="Der Spieler"></a>
 Der Spieler (auch Player genannt) ist der einzige direkt kontrollierbare Teil dieses Spiels, diesen bewegt man mithilfe von den „Links“- und „Rechts“-Tasten. Dement!
 sprechend ist dessen Code ziemlich simpel:
-[Player Code](https://user-images.githubusercontent.com/111355009/230404658-cef5ebc3-7ec9-4266-a628-19a2ca766872.png)
+![Player Code](https://user-images.githubusercontent.com/111355009/230404658-cef5ebc3-7ec9-4266-a628-19a2ca766872.png)
 Bewegen muss man den Spieler, um den Ball vom eigenen Tor wegzuhalten und in das gegnerische Tor zu „schießen“.
 ### Der Ball: <a name="Der Ball"></a>
 Der Ball ist der Weg, wie man in diesem Spiel Tore machen kann, lenken kann man diesen nur indirekt mithilfe des Spielers. Abprallen tut der Ball nur von den Wänden und dem Spieler, dies nach dem Prinzip Einfallswinkel = Ausfallswinkel, weshalb hierfür verhältnismäßig viel Code verwendet werden musste.

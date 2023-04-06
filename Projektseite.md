@@ -30,7 +30,8 @@ Der Spieler (auch Player genannt) ist der einzige direkt kontrollierbare Teil di
 ![Player Code](https://user-images.githubusercontent.com/111355009/230404658-cef5ebc3-7ec9-4266-a628-19a2ca766872.png)
 
 Bewegen muss man den Spieler, um den Ball vom eigenen Tor wegzuhalten und in das gegnerische Tor zu „schießen“.
-### Der Ball: <a name="Der Ball"></a>
+### Der Ball: <a name="Der Ball"></a> ![R214](https://user-images.githubusercontent.com/111355009/230417860-aa6ecdab-63ba-4479-a5af-8bdc40098d2e.png)
+
 Der Ball ist der Weg, wie man in diesem Spiel Tore machen kann, lenken kann man diesen nur indirekt mithilfe des Spielers. Abprallen tut der Ball nur von den Wänden und dem Spieler, dies nach dem Prinzip Einfallswinkel = Ausfallswinkel, weshalb hierfür verhältnismäßig viel Code verwendet werden musste.
 ### Die oberen Wände: <a name="Die oberen Wände"></a>
 Die oberen Wände haben das Ziel, den Ball wie bei den Seitenwänden abzulenken, nötig waren diese, damit das Tor oben abgedeckt ist, damit an den Seiten des Tores keine Tore erzielt werden können. Eigenen Code haben diese Wände aber nicht.

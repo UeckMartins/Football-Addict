@@ -38,7 +38,7 @@ Die oberen Wände haben das Ziel, den Ball wie bei den Seitenwänden abzulenken,
 ### Die Tore: <a name="Die Tore"></a>
 Sobald der Ball das Tor des Spielers oder des Gegners berührt, verschwindet dieser und ein neuer Ball erscheint auf dem Spielfeld.
 Das Tor hat auch eine weitere wichtige Funktion, es führt dazu, dass die Counter die Anzahl der „geschossenen“ Tore mitzählen kann.
-### Der Counter: <a name="Der Counter"></a>
+### Der Counter: <a name="Der Counter"></a> ![Picture Counter](https://user-images.githubusercontent.com/111355009/230418533-94561076-7d66-47cd-b563-af67eaf2482f.png)
 Die beiden Counters sind die Anzeigen für die geschossenen Tore, der Linke ist für den Spieler, der Rechte für den Gegner.
 ### Die Defenders: <a name="Die Defenders"></a>
 Die Defenders sind, wie der Name es schon sagt, Verteidiger. Diese können als Alternative in das Spiel hinzugefügt werden, um es schwieriger zu machen ein Tor zu erzielen und bewegen sich von Seite zu Seite. Der Ball prallt auch an ihnen ab.

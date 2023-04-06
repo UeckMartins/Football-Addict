@@ -1,12 +1,16 @@
 # „Football Addict“ – Das Fußballspiel mit Suchtpotenzial
 
-Einleitung:
+## Inhaltsverzeichnis:
+
+* [Einleitung](Einleitung)
+
+## Einleitung:
 Dies ist die Projektseite zum Fußballspiel „Football Addict“, programmiert von Philip Martins und Robert Ueck.
 Was ist „Football Addict“?
 Football Addict ist ein klassisches Computerspiel, wo man einen Spieler von Seite zu Seite steuert, um Tore zu erzielen und Gegentore zu verhindern. Addict heißt es, weil es ein offenes Ende hat und dadurch ein großes Verlangen daran besteht, so viele Tore wie möglich zu machen.
-Programm:
+## Programm:
 Verwendet wurde das Programm Greenfoot, einer mithilfe von Java geschriebenen Entwicklungsumgebung für das Programmieren.
-Aufbau:
+## Aufbau:
 Der Spieler:
 Der Spieler (auch Player genannt) ist der einzige direkt kontrollierbare Teil dieses Spiels, diesen bewegt man mithilfe von den „Links“- und „Rechts“-Tasten. Dementsprechend ist dessen Code ziemlich simpel:
 Bewegen muss man den Spieler, um den Ball vom eigenen Tor wegzuhalten und in das gegnerische Tor zu „schießen“.

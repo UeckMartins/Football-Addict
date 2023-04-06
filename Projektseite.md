@@ -1,4 +1,5 @@
-#„Football Addict“ – Das Fußballspiel mit Suchtpotenzial
+# „Football Addict“ – Das Fußballspiel mit Suchtpotenzial
+
 Einleitung:
 Dies ist die Projektseite zum Fußballspiel „Football Addict“, programmiert von Philip Martins und Robert Ueck.
 Was ist „Football Addict“?

@@ -4,16 +4,16 @@
 
 ## Inhaltsverzeichnis:
 
-* (Einleitung)
-* [Programm](Programm)
-* [Aufbau](Aufbau)
-  * [Der Spieler](Der-Spieler)
-  * [Der Ball](Der-Ball)
-  * [Die oberen Wände](Die-oberen-Wände)
-  * [Die Tore](Die-Tore)
-  * [Der Counter](Der-Counter)
-  * [Die Defenders](Die-Defenders)
-* [Anleitung](Anleitung)
+* Einleitung
+* Programm
+* Aufbau
+  * Der Spieler
+  * Der Ball
+  * Die oberen Wände
+  * Die Tore
+  * Der Counter
+  * Die Defenders
+* Anleitung
 
 ## Einleitung:
 Dies ist die Projektseite zum Fußballspiel „Football Addict“, programmiert von Philip Martins und Robert Ueck.

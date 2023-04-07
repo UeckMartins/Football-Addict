@@ -20,6 +20,7 @@
 ## Das Protokoll:
 ### 10.01.
 Heute war die erste Stunde, wo wir uns mit einem neuen Projekt beschäftigen sollten. Die Stunde wurde damit verbracht, dass wir uns überlegt hatten, was wir in diesem Halbjahr machen wollten. Eine Ideensammlung wurde angefangen und in einer Art Mindmap zusammengestellt. Das Protokoll wurde wie letztes Halbjahr auf Word angefangen.
+
 ![image](https://user-images.githubusercontent.com/111355009/230624964-1f4b492c-8a95-41af-9752-bc82f899cfe0.png)
 
 ### 11.01.
@@ -30,6 +31,7 @@ Unsere vorherigen Ideen mussten wir in dieser Stunde allesamt von Bord werfen, w
 Die Stunde fing damit an, dass wir uns das Buch zu Greenfoot angeschaut haben, um zu erfahren, was man damit machen kann und, ob wir glauben, dass wir damit arbeiten können. Durch unsere Arbeit mit AppLab haben wir viele Parallelen gefunden, weshalb wir uns entschieden haben, uns das Programm genauer auf dem Computer anzuschauen.
 ### 24.01.
 In dieser Stunde haben wir angefangen, uns die Videos von Joy of Code anzuschauen und die einzelnen Schritte in einem Greenfoot-Projekt nachzumachen. Die Arbeit an Greenfoot war bislang sehr produktiv, wir haben es geschafft, Actors zum Bewegen zu bringen.
+
 ![Screenshot Joy of Code](https://user-images.githubusercontent.com/111355009/230625531-6c49fac1-89f2-4623-b490-f4b5e9ec5e3f.png)
 
 ### 25.01.
@@ -40,6 +42,7 @@ Durch das Herumspielen mit dem Programm haben wir nun eine Idee, was wir machen 
 Heute haben wir mit der Visualisierung unseres Fußballspieles angefangen, wir brauchen zwei Wände oben neben dem Tor, zwei Seitenwände, ein Tor für die Gegner, ein Tor für den Spieler, den Spieler selber sowie einen Ball und wenn möglich, eine Toranzeige.
 ### 08.02.
 Heute war Philip nicht da, Robert hat sich in der heutigen Stunde damit beschäftigt, Bilder für die verschiedenen Actors zu erstellen und in das Spiel hinzuzufügen.
+
 ![WhatsApp Bild 2023-02-09 um 10 58 53](https://user-images.githubusercontent.com/111355009/230625192-79dc0083-5a70-46ad-88bf-4ab89858537a.jpg)
 
 ### 10.02.

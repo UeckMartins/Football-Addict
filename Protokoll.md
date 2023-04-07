@@ -63,6 +63,9 @@ Heute war Distanzlerntag. Da unser Projekt nur auf einem Schulcomputer zugreifba
 Heute war keine produktive Stunde, weil wir sehr vom langsamen Computer verhindert worden sind, das Programm vom 01.03. konnten wir aus irgendeinem Grund leider nicht mehr auf Greenfoot anschauen, weshalb das Nachvollziehen des Codes ziemlich schwierig war.
 ### 10.03.
 Der Anfang der Stunde verlief die die vorherigen auch, wir haben es weiterhin nicht geschafft eine Lösung für das Abprallen zu finden. Doch zum Ende der Doppelstunde haben wir endlich den Durchbruch geschafft: Wir haben den Ball dazu gebracht, von allen Wänden sowie vom Spieler mit dem Prinzip Einfallswinkel = Ausfallswinkel abprallen zu lassen. Diesen Code hatten wir bei einem anderen Greenfoot-Projekt gefunden und für unser Spiel umgeschrieben.
+
+![image](https://user-images.githubusercontent.com/111355009/230627365-532c98d5-72b2-4719-bbf0-23e294b8c1a4.png)
+
 ### 15.03.
 Der große Schritt in der letzten Stunde bedeutete, dass wir uns jetzt mit anderen Problemen auseinandersetzen mussten, wir wollten einen Counter erstellen. Dies hatten wir in der Vergangenheit zwar auch schon versucht, zwar ohne Erfolg.
 ### 17.03.

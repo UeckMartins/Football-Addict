@@ -4,7 +4,7 @@
 
 ## Inhaltsverzeichnis:
 
-* [Einleitung]
+* (Einleitung)
 * [Programm](Programm)
 * [Aufbau](Aufbau)
   * [Der Spieler](Der-Spieler)

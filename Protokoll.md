@@ -30,6 +30,8 @@ Unsere vorherigen Ideen mussten wir in dieser Stunde allesamt von Bord werfen, w
 Die Stunde fing damit an, dass wir uns das Buch zu Greenfoot angeschaut haben, um zu erfahren, was man damit machen kann und, ob wir glauben, dass wir damit arbeiten können. Durch unsere Arbeit mit AppLab haben wir viele Parallelen gefunden, weshalb wir uns entschieden haben, uns das Programm genauer auf dem Computer anzuschauen.
 ### 24.01.
 In dieser Stunde haben wir angefangen, uns die Videos von Joy of Code anzuschauen und die einzelnen Schritte in einem Greenfoot-Projekt nachzumachen. Die Arbeit an Greenfoot war bislang sehr produktiv, wir haben es geschafft, Actors zum Bewegen zu bringen.
+![Screenshot Joy of Code](https://user-images.githubusercontent.com/111355009/230625531-6c49fac1-89f2-4623-b490-f4b5e9ec5e3f.png)
+
 ### 25.01.
 In dieser Doppelstunde haben wir uns weiter mit den Basics von Greenfoot beschäftigt, indem wir uns die Videos von Joy of Code anschauten, schafft haben wir es, dass ein Actor in einem bestimmten Winkel von einer Wand abprallt sowie beim Kontakt mit einem Gegenstand verschwindet. Bislang haben wir allerdings noch keine Idee, was unser Projekt werden soll.
 ### 31.01.

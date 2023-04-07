@@ -20,6 +20,8 @@
 ## Das Protokoll:
 ### 10.01.
 Heute war die erste Stunde, wo wir uns mit einem neuen Projekt beschäftigen sollten. Die Stunde wurde damit verbracht, dass wir uns überlegt hatten, was wir in diesem Halbjahr machen wollten. Eine Ideensammlung wurde angefangen und in einer Art Mindmap zusammengestellt. Das Protokoll wurde wie letztes Halbjahr auf Word angefangen.
+![image](https://user-images.githubusercontent.com/111355009/230624964-1f4b492c-8a95-41af-9752-bc82f899cfe0.png)
+
 ### 11.01.
 Am Anfang der Stunde haben wir noch Ideen gesammelt und geschaut, ob wir ein neues Spiel auf AppLab entwickelt könnten. Dann hatte Philip die Idee, dass man ein Spiel entwerfen könnte, wo ein bestimmtes Muster auf dem Bildschirm angezeigt wird und man sich dieses dann ein paar Sekunden merken und dann wiedergeben muss. Also fingen wir dann mit dem Set-Up davon an, unklar war noch, ob wir die Checkboxes dafür verwenden wollten oder nicht, die Details wollten wir dann in der nächsten Stunde besprechen.
 ### 17.01.

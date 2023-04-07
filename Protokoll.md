@@ -1,4 +1,16 @@
 # Informatik Protokoll:
+
+## Die Stunden:
+* [10.01.](10.01.)
+* [11.01.](11.01.)
+* [17.01.](17.01.)
+* [18.01.](18.01.)
+* [24.01.](24.01.)
+* [25.01.](25.01.)
+* [31.01.](31.01.)
+* [01.02.](01.02)
+
+## Das Protokoll:
 ### 10.01.
 Heute war die erste Stunde, wo wir uns mit einem neuen Projekt beschäftigen sollten. Die Stunde wurde damit verbracht, dass wir uns überlegt hatten, was wir in diesem Halbjahr machen wollten. Eine Ideensammlung wurde angefangen und in einer Art Mindmap zusammengestellt. Das Protokoll wurde wie letztes Halbjahr auf Word angefangen.
 ### 11.01.

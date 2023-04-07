@@ -38,6 +38,8 @@ Durch das Herumspielen mit dem Programm haben wir nun eine Idee, was wir machen 
 Heute haben wir mit der Visualisierung unseres Fußballspieles angefangen, wir brauchen zwei Wände oben neben dem Tor, zwei Seitenwände, ein Tor für die Gegner, ein Tor für den Spieler, den Spieler selber sowie einen Ball und wenn möglich, eine Toranzeige.
 ### 08.02.
 Heute war Philip nicht da, Robert hat sich in der heutigen Stunde damit beschäftigt, Bilder für die verschiedenen Actors zu erstellen und in das Spiel hinzuzufügen.
+![WhatsApp Bild 2023-02-09 um 10 58 53](https://user-images.githubusercontent.com/111355009/230625192-79dc0083-5a70-46ad-88bf-4ab89858537a.jpg)
+
 ### 10.02.
 Mit unserem Vorwissen aus Joy of Code haben wir den Ball so programmiert, dass er in einem bestimmten Winkel von der Wand abprallt, eine langfristige Lösung für unser Spiel ist dies allerdings nicht, leider haben wir bislang keine Ahnung, wie man das anders macht.
 ### 15.02.
